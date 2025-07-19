@@ -51,8 +51,8 @@ I'm a **Computer Science Undergraduate** passionate about **Software Engineering
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashrym&theme=dark&hide_border=false" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrym&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages"/>
 </p>
----
-### 🌐 Connect with Me
+
+**🌐 Connect with Me**
 <p align="left">
   <a href="mailto:madanayasara@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/>
