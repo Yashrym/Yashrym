@@ -47,8 +47,8 @@ I'm a **Computer Science Undergraduate** passionate about **Software Engineering
 ---
 ## 🚀 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashrym&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashrym&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashrym&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrym&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages"/>
 </p>
 
