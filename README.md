@@ -2,14 +2,12 @@
 <h1 align="center">
   Hello! I'm Yasara Madana.
 </h1>
-
 <p align="center">
   <img src="assets/banner.jpg" alt="Yasara Madana Banner" width="100%" />
 </p>
-
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate+;AI+%7C+ML+%7C+Robotics+Enthusiast+;Building+Efficient+Tech+Solutions+;Always+Learning+%26+Exploring+"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7600bc&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate+;AI+%7C+ML+%7C+Robotics+Enthusiast+;Building+Efficient+Tech+Solutions+;Always+Learning+%26+Exploring+"
     alt="Typing SVG"
   />
 </p>
