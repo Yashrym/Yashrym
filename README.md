@@ -3,7 +3,7 @@
   Hello! I'm Yasara Madana.
 </h1>
 <p align="center">
-  <img src="assets/banner.jpg" alt="Yasara Madana Banner" width="100%" />
+  <img src="assets/banner2.jpg" alt="Yasara Madana Banner" width="100%" />
 </p>
 <p align="center">
   <img
