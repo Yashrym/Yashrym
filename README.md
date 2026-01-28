@@ -1,18 +1,33 @@
-<h1 align="center">Hi, I'm Yasara Madana</h1>
-
-<h3 align="center">
-Computer Science Undergraduate | AI, ML & Robotics Enthusiast 
-</h3>
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">
+  Hello! I'm Yasara Madana.
+</h1>
 
 <p align="center">
-Passionate about building <b>efficient</b> and <b>innovative</b> solutions that bring ideas to life through technology.
+  <img src="assets/banner.png" alt="Yasara Madana Banner" width="100%" />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate+;AI+%7C+ML+%7C+Robotics+Enthusiast+;Building+Efficient+Tech+Solutions+;Always+Learning+%26+Exploring+"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  Passionate about building <b>efficient</b> and <b>innovative</b> solutions that bring ideas to life through technology.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yashrym&label=Profile%20Views&color=6ea8fe&style=flat"/>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ===================== TECH STACK ===================== -->
+<h2 align="center">🛠️ Tech Stack</h2>
 
-### 🌐 Frontend
+<h3 align="center">🌐 Frontend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
@@ -24,7 +39,7 @@ Passionate about building <b>efficient</b> and <b>innovative</b> solutions that 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
 </p>
 
-### ⚙️ Backend
+<h3 align="center">⚙️ Backend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
@@ -33,7 +48,7 @@ Passionate about building <b>efficient</b> and <b>innovative</b> solutions that 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
 </p>
 
-### 🛢️ Databases
+<h3 align="center">🛢️ Databases</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/>
@@ -41,28 +56,36 @@ Passionate about building <b>efficient</b> and <b>innovative</b> solutions that 
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
 </p>
 
-### 🛠️ Tools
+<h3 align="center">🧰 Tools</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="45"/>
 </p>
 
 ---
 
-## 🚀 GitHub Stats
+<!-- ===================== GITHUB STATS ===================== -->
+<h2 align="center">🚀 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashrym&theme=dark"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashrym&theme=dark&include_all_commits=true&count_private=true"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrym&theme=dark&layout=compact"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashrym&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashrym&theme=dark&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrym&theme=dark&layout=compact" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+<!-- ===================== CONNECT ===================== -->
+<h2 align="center">🌐 Connect with Me</h2>
+
 <p align="center">
   <a href="mailto:madanayasara@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/>
@@ -83,7 +106,9 @@ Passionate about building <b>efficient</b> and <b>innovative</b> solutions that 
 
 ---
 
-## ☕ Support Me
+<!-- ===================== SUPPORT ===================== -->
+<h2 align="center">☕ Support Me</h2>
+
 <p align="center">
   <a href="https://www.buymeacoffee.com/YOUR_USERNAME">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
@@ -92,13 +117,9 @@ Passionate about building <b>efficient</b> and <b>innovative</b> solutions that 
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yashrym&theme=radical&no-frame=false&no-bg=true"/>
-</p>
-
----
+<!-- ===================== TROPHIES ===================== -->
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashrym&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Yashrym&theme=radical&no-frame=true&no-bg=true"/>
 </p>
